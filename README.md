@@ -1,6 +1,16 @@
-# 👋 Hi, I'm Roshan Singh Bisht
+<h1 align="center">Hi 👋, I'm Roshan Singh Bisht </h1>
+<h3 align="center">🚀 Aspiring Data Analyst | Python | SQL | Excel | Power BI</h3>
+ 
+<p align="center">
+<a href="https://www.linkedin.com/in/roshan-singh-bisht-950b87426/">
+<img src="https://img.shields.io/badge/LinkedIn-Name-blue?style=for-the-badge&logo=linkedin">
+</a>
+<img src="https://img.shields.io/badge/View%20My%20Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white%22>
+</a>
+<img src="https://komarev.com/ghpvc/?username=roshanbisht402-dot&style=for-the-badge" />
+</p>
+ 
 
-### 🚀 Aspiring Data Analyst | Python | SQL | Excel | Power BI
 
 Welcome to my GitHub profile!
 
