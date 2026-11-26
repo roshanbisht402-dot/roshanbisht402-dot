@@ -3,7 +3,7 @@
  
 <p align="center">
 <a href="https://www.linkedin.com/in/roshan-singh-bisht-950b87426/">
-<img src="https://img.shields.io/badge/LinkedIn-Name-blue?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-Roshan_Singh_Bisht-blue?style=for-the-badge&logo=linkedin">
 </a>
 <img src="https://img.shields.io/badge/View%20My%20Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white%22>
 </a>
